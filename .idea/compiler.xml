@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lhx_haoke_manage_dubbo_server_common" />
+        <module name="lhx_haoke_manage_dubbo_server_generator" />
+        <module name="lhx_haoke_manager_api_server" />
+        <module name="lhx_haoke_manager_dubbo_server_ad_interface" />
+        <module name="lhx_haoke_manager_dubbo_server_ad_service" />
+        <module name="lhx_haoke_manager_dubbo_server_house_resources_dubbo_interface" />
+        <module name="lhx_haoke_manager_dubbo_server_house_resources_dubbo_service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="lhx_haoke_manage_dubbo_server_common" options="-parameters" />
+      <module name="lhx_haoke_manage_dubbo_server_generator" options="-parameters" />
+      <module name="lhx_haoke_manager_api_server" options="-parameters" />
+      <module name="lhx_haoke_manager_dubbo_server" options="-parameters" />
+      <module name="lhx_haoke_manager_dubbo_server_ad" options="-parameters" />
+      <module name="lhx_haoke_manager_dubbo_server_ad_interface" options="-parameters" />
+      <module name="lhx_haoke_manager_dubbo_server_ad_service" options="-parameters" />
+      <module name="lhx_haoke_manager_dubbo_server_house_resources_dubbo_interface" options="-parameters" />
+      <module name="lhx_haoke_manager_dubbo_server_house_resources_dubbo_service" options="-parameters" />
+    </option>
+  </component>
+</project>

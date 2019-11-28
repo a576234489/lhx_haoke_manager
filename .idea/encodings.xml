@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lhx_haoke_manager_api_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lhx_haoke_manager_dubbo_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lhx_haoke_manager_dubbo_server/lhx_haoke_manage_dubbo_server_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lhx_haoke_manager_dubbo_server/lhx_haoke_manage_dubbo_server_generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lhx_haoke_manager_dubbo_server/lhx_haoke_manager_dubbo_server_ad" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lhx_haoke_manager_dubbo_server/lhx_haoke_manager_dubbo_server_ad/lhx_haoke_manager_dubbo_server_ad_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lhx_haoke_manager_dubbo_server/lhx_haoke_manager_dubbo_server_ad/lhx_haoke_manager_dubbo_server_ad_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lhx_haoke_manager_dubbo_server/lhx_haoke_manager_dubbo_server_house_resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lhx_haoke_manager_dubbo_server/lhx_haoke_manager_dubbo_server_house_resources/lhx_haoke_manager_dubbo_server_house_resources_dubbo_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lhx_haoke_manager_dubbo_server/lhx_haoke_manager_dubbo_server_house_resources/lhx_haoke_manager_dubbo_server_house_resources_dubbo_service" charset="UTF-8" />
+  </component>
+</project>
